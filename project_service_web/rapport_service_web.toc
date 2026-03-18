@@ -1,0 +1,19 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{Liste des figures}{3}{section*.2}%
+\contentsline {section}{Introduction}{4}{section*.3}%
+\contentsline {section}{\numberline {1}Partie 1 --- Modélisation REST}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Identification des ressources}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Définition des URI et Verbes HTTP}{6}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Partie 2 --- Consommation de l'API}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Création d'un cours (POST)}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Consultation (GET)}{9}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Partie 3 --- Mise à jour : PUT vs PATCH}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}PUT (Remplacement complet)}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}PATCH (Modification partielle)}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Partie 4 --- Codes HTTP et gestion des erreurs}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Exemple d'erreur 404}{12}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Partie 5 --- Bonus (Niveau Master)}{13}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Validation métier : volumeHoraire > 0}{13}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Pagination des ressources}{13}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Technologies Utilisées}{15}{section.6}%
+\contentsline {section}{Conclusion}{18}{section*.15}%
